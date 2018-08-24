@@ -9,7 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" type="text/css" href="/lib/css/estilo.css">
+        <link rel="stylesheet" type="text/css" href="public/lib/css/estilo.css">
 
         <!-- Styles -->
 
