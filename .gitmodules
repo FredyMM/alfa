@@ -1,3 +1,6 @@
 [submodule "public/libs"]
 	path = public/libs
 	url = https://github.com/FredyMM/libs.git
+[submodule "public/public/lib"]
+	path = public/public/lib
+	url = https://github.com/FredyMM/libs.git
